@@ -1,5 +1,6 @@
 streamlit
-langchain 
-faiss-cpu 
-huggingface_hub 
+langchain
+faiss-cpu
+sentence_transformers
 requests
+beautifulsoup4
